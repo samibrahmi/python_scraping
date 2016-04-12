@@ -1,0 +1,2 @@
+git clone --bare https://githost.org/extuser/repo.git
+help file https://help.github.com/articles/importing-a-git-repository-using-the-command-line/
